@@ -1,0 +1,32 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    color: red;
+    font-size: 200px;
+}
+
+img:hover {
+    background-color: red;
+}
+
+/* CLASS SELECTORS */
+.bacon {
+    background-color: brown;
+}
+.broccoli{
+    background-color: blue;
+}
+.circular {
+    border-radius: 100%;
+}
+
+/* ID SELECTOR */
+
+#heading {
+    color: aqua;
+}
+
+#big {
+    font-size: 1000px;
+}
